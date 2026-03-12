@@ -1,4 +1,5 @@
 # C# Console Applications
+*A collection of basic C# console applications developed as part of The Tech Academy's C# and Unity Course. These projects demonstrate fundamental programming concepts including data types, operators, and boolean logic.
 
 ### 1. Math and Comparison Operations
 * Takes user input and multiplies by 50.
