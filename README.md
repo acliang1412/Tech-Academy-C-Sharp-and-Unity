@@ -1,35 +1,21 @@
-C# Console Applications
-A collection of basic C# console applications developed as part of The Tech Academy's C# and Unity Course. These projects demonstrate fundamental programming concepts including data types, operators, and boolean logic.
+# C# Console Applications
 
-Projects
-1. Math and Comparison Operations
-A program that performs various mathematical operations based on user input.
+### 1. Math and Comparison Operations
+* Takes user input and multiplies by 50.
+* Adds 25 to the input.
+* Divides the input by 12.5.
+* Checks if the input is greater than 50.
+* Finds the remainder after dividing by 7.
 
-Key Features: Multiplies by 50, adds 25, divides by 12.5, checks if a number is greater than 50, and calculates the remainder (modulus) when divided by 7.
+### 2. Anonymous Income Comparison
+* Calculates annual salary for two people.
+* Uses the formula: Hourly Rate * Hours per Week * 52.
+* Compares both salaries and returns a True/False result.
 
-Concepts: Variable assignment, data type conversion, and arithmetic operators.
-
-2. Anonymous Income Comparison
-A tool designed to compare the annual salaries of two individuals based on their hourly rates and hours worked per week.
-
-Key Features: Takes input for two separate people, calculates annual salary (based on 52 weeks), and returns a boolean comparison of who makes more.
-
-Concepts: Financial math using decimal types and logical comparisons.
-
-3. Car Insurance Approval
-A basic logic-based application to determine if an applicant qualifies for car insurance based on specific business rules.
-
-Qualification Rules: * Applicant must be over 15 years old.
-
-Applicant must have no DUIs.
-
-Applicant must have 3 or fewer speeding tickets.
-
-Concepts: Boolean logic, complex conditional expressions, and user input validation.
-
-How to Run
-Open the .sln file in Visual Studio.
-
-Build the solution.
-
-Press F5 to run the console application.
+### 3. Car Insurance Approval
+* Asks for Age, DUI history, and Speeding Tickets.
+* Uses boolean logic to check if:
+    * Age is > 15.
+    * No DUIs exist.
+    * Speeding tickets are <= 3.
+* Returns a "Qualified" status as True or False.
