@@ -1,0 +1,7 @@
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.exe.config
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\bin\Debug\ConsoleApplicationChallenge.pdb
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.csproj.AssemblyReference.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleApplicationChallenge\ConsoleApplicationChallenge\obj\Debug\ConsoleApplicationChallenge.pdb
