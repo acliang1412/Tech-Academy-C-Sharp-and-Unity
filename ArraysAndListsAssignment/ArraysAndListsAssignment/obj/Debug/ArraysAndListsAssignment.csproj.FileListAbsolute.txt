@@ -1,0 +1,7 @@
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.exe.config
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.pdb
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.csproj.AssemblyReference.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.pdb

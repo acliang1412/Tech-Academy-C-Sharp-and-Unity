@@ -1,0 +1,7 @@
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleAppAsssignments\ConsoleAppAsssignments\bin\Debug\ConsoleAppAsssignments.exe.config
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleAppAsssignments\ConsoleAppAsssignments\bin\Debug\ConsoleAppAsssignments.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleAppAsssignments\ConsoleAppAsssignments\bin\Debug\ConsoleAppAsssignments.pdb
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleAppAsssignments\ConsoleAppAsssignments\obj\Debug\ConsoleAppAsssignments.csproj.AssemblyReference.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleAppAsssignments\ConsoleAppAsssignments\obj\Debug\ConsoleAppAsssignments.csproj.CoreCompileInputs.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleAppAsssignments\ConsoleAppAsssignments\obj\Debug\ConsoleAppAsssignments.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\ConsoleAppAsssignments\ConsoleAppAsssignments\obj\Debug\ConsoleAppAsssignments.pdb
