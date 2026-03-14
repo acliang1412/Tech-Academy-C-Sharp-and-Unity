@@ -1,0 +1,7 @@
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\IterationAssignment3\IterationAssignment3\bin\Debug\IterationAssignment3.exe.config
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\IterationAssignment3\IterationAssignment3\bin\Debug\IterationAssignment3.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\IterationAssignment3\IterationAssignment3\bin\Debug\IterationAssignment3.pdb
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\IterationAssignment3\IterationAssignment3\obj\Debug\IterationAssignment3.csproj.AssemblyReference.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\IterationAssignment3\IterationAssignment3\obj\Debug\IterationAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\IterationAssignment3\IterationAssignment3\obj\Debug\IterationAssignment3.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\IterationAssignment3\IterationAssignment3\obj\Debug\IterationAssignment3.pdb
