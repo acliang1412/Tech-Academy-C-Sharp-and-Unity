@@ -1,0 +1,7 @@
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\Loops\Loops\obj\Debug\Loops.pdb

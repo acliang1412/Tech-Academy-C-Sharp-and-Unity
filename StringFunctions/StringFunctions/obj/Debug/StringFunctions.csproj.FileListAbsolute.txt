@@ -1,0 +1,7 @@
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe.config
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\StringFunctions\StringFunctions\bin\Debug\StringFunctions.pdb
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csproj.AssemblyReference.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\StringFunctions\StringFunctions\obj\Debug\StringFunctions.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\StringFunctions\StringFunctions\obj\Debug\StringFunctions.pdb

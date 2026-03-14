@@ -1,0 +1,7 @@
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe.config
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\LoopAssignment\LoopAssignment\bin\Debug\LoopAssignment.pdb
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.AssemblyReference.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.exe
+C:\Users\cielo\source\repos\acliang1412\Tech-Academy-C-Sharp-and-Unity\LoopAssignment\LoopAssignment\obj\Debug\LoopAssignment.pdb
