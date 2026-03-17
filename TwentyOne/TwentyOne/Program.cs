@@ -1,20 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            
+
             Deck deck = new Deck();
+            deck.Shuffle(3); // Shuffles the deck 3 times
 
-            Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
+            foreach (Card card in deck.Cards)
+            {
+                Console.WriteLine(card); // Uses the overridden ToString()
+            }
+
+            Console.WriteLine("\nTotal Cards: " + deck.Cards.Count);
             Console.ReadLine();
-
         }
     }
 }
